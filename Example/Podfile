@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TRPaginator_Example' do
+  pod 'TRPaginator', :path => '../'
+
+  target 'TRPaginator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
