@@ -1,9 +1,5 @@
 # TRPaginator
 
-[![Version](https://img.shields.io/cocoapods/v/TRPaginator.svg?style=flat)](http://cocoapods.org/pods/TRPaginator)
-[![License](https://img.shields.io/cocoapods/l/TRPaginator.svg?style=flat)](http://cocoapods.org/pods/TRPaginator)
-[![Platform](https://img.shields.io/cocoapods/p/TRPaginator.svg?style=flat)](http://cocoapods.org/pods/TRPaginator)
-
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
