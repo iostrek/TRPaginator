@@ -1,0 +1,16 @@
+PODS:
+  - TRPaginator (0.1.0)
+
+DEPENDENCIES:
+  - TRPaginator (from `../`)
+
+EXTERNAL SOURCES:
+  TRPaginator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TRPaginator: 70022cb512ebd324f94923de62ca9b59f22f8d4e
+
+PODFILE CHECKSUM: 28e2fbd8e449716d9abef1b94c0281f73e61cf06
+
+COCOAPODS: 1.0.1
