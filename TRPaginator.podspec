@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TRPaginator'
-  s.version          = '0.0.4'
+  s.version          = '0.0.5'
   s.summary          = 'TRPaginator helps make pagination easy.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TRPaginator helps make pagination easy.
                        DESC
 
   s.homepage         = 'https://github.com/iostrek/TRPaginator'
